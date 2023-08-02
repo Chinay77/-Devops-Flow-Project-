@@ -1,4 +1,5 @@
-![image](https://github.com/Chinay77/Devops-Flow-Project/assets/105514247/5dc6860f-38a3-494a-89f3-4c8c32ec5b51)# Deploying a Django Application on EC2, Dockerizing, and Configuring Jenkins 
+![image](https://github.com/Chinay77/Devops-Flow-Project/assets/105514247/e4cf8a6e-faf0-4c3a-bc56-069dfc8e1c53)
+# Deploying a Django Application on EC2, Dockerizing, and Configuring Jenkins 
 
 In this tutorial, we'll go through the process of deploying a Django application on an EC2 instance, Dockerizing it, and configuring Jenkins to automate the deployment process.
 
